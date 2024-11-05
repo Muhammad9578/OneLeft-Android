@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">OneLeft</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="by_continuing_you_agree"><![CDATA[By continuing, you agree to accept our\nPrivacy Policy & Terms of Service]]></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_email">Enter you email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="re_enter_your_email">Re-Enter Your Email</string>
+    <string name="next">Next</string>
+    <string name="we_have_sent_an_otp_code_to_your_email_address">We Have Sent An OTP Code To Your Email Address</string>
+    <string name="enter_the_4_digit_code_sent_to_you_at_s_did_you_enter_the_correct_email_address">Enter the 4-digit code sent to you at your email address.</string>
+    <string name="username">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_your_password">Re-Enter Your Password</string>
+    <string name="complete">Complete</string>
+    <string name="complete_your_profile">Complete Your Profile</string>
+    <string name="pay">Pay</string>
+    <string name="i_agree">I Agree</string>
+    <string name="privacy_policy_text"><h1>OneLeft Online Software User Terms Of Service</h1>
+<p><strong>OneLeft App is a product by EE Technology,</strong> a company registered in Brazil, with registered address at Rua Urussuί, 333, Sao Paulo - Brazil.</p>
+<p><strong>USER LICENSE AGREEMENT - REAL MONEY GAMES</strong></p>
+<p>This user license agreement should be read by you (the "<strong>User</strong>" or "<strong>you</strong>") in its entirety prior to your use of One Left\'s service or products. Please note that the Agreement constitutes a legally binding agreement between you and OneLeft (referred to herein as "<strong>OneLeft</strong>", "<strong>us</strong>", "<strong>we</strong>", or "<strong>our</strong>").</p>
+<h2>1. GRANT OF LICENSE/INTELLECTUAL PROPERTY</h2>
+<h3>1.1</h3>
+<p>EE Technology is the sole holder of all rights in the Software and the Software\'s code, structure and organisation, including copyright, trade secrets, intellectual property and other rights. You may not, within the limits prescribed by applicable laws:</p>
+<p>a. copy, distribute, publish, reverse engineer, decompile, disassemble, modify, or translate the Software or make any attempt to access the source code to create derivative works of the source code of the Software, or otherwise;</p>
+<p>b. sell, assign, sublicense, transfer, distribute or lease the Software;</p>
+<p>c. make the Software available to any third party through a computer network or otherwise;</p>
+<p>d. export the Software to any country (whether by physical or electronic means); or</p>
+<p>e. use the Software in a manner prohibited by applicable laws or regulations,</p>
+<p>(each of the above is an "<strong>Unauthorised Use</strong>").</p>
+<p>One Left App and its licensors (including any Third Party Providers) reserve any and all rights implied or otherwise, which are not expressly granted to the User hereunder and retain all rights, title and interest in and to the Software.</p>
+<p>You agree that you will be solely liable for any damage, costs or expenses arising out of or in connection with the commission by you of any Unauthorised Use. You shall notify us immediately upon becoming aware of the commission by any person of any Unauthorised Use and shall provide us with reasonable assistance with any investigations we conduct in light of the information provided by you in this respect.</p>
+<h3>1.2</h3>
+<p>You agree not to do anything that will harm or potentially harm the rights, including the intellectual property rights, held by the EE Technology and/or its licensors (including any Third Party Providers) in the Software, the Trade Marks or the Site Content nor will you do anything that damages the image or reputation of EE Technology generally and all our and its employees, directors, officers and consultants.</p>
+<h3>1.3</h3>
+<p>You warrant that any names or images used by you in connection with the Service (for example, your user name and avatar) shall not infringe the intellectual property, privacy or other rights of any third party. You hereby grant us for the benefit of EE Technology a worldwide, irrevocable, transferable, royalty free, sublicensable license to use such names and images for any purpose connected with the Sites or Service, subject to the terms of our <a href="https://www.pokerstars.com/privacy/">Privacy Policy</a>.</p>
+<h2>2. NO WARRANTIES</h2>
+<h3>2.1</h3>
+<p>One Left App disclaims any and all warranties, expressed or implied, in connection with the Service which is provided to you "AS IS" and we provide you with no warranty or representation whatsoever regarding its quality, fitness for purpose, completeness, or accuracy.</p>
+<h3>2.2</h3>
+<p>Regardless of our efforts to provide you with service of the highest quality, safety and security, we make no warranty that the Service will be uninterrupted, timely or error-free, that defects will be corrected or that the Software shall be free from viruses, bugs or other contaminants.</p>
+<h3>2.3</h3>
+<p>One Left App reserves the right to suspend, discontinue, modify, remove or add to the Service in its absolute discretion with immediate effect and without an obligation to provide you with notice where we consider it necessary to do so, including (for example) where we receive information that you have infringed the terms of services or where we deem it necessary for the management, maintenance or update of the Software and we shall not be liable in any way whatsoever for any loss suffered as a consequence of any decision made by OneLeft in this regard.</p>
+<h2>3. AUTHORITY</h2>
+<p>OneLeft retains authority over the issuing, maintenance, and closing of Users\' accounts on the software. The decision of OneLeft management, in regard to any aspect of a User\'s account, use of the Service, or dispute resolution, is final and shall not be open to review or appeal.</p>
+<h2>4. YOUR REPRESENTATIONS AND WARRANTIES</h2>
+<p>Prior to your use of the Service and on an ongoing basis you represent, warrant, covenant, and agree that:</p>
+<h3>4.1</h3>
+<p>there is a risk of losing money when using the Service and that EE Technology does not have any responsibility to you for any such loss;</p>
+<h3>4.2</h3>
+<p>EE Technology is not a financial institution and no interests will accrue on monies deposited with us;</p>
+<h3>4.3</h3>
+<p>your use of the Service is at your sole option, discretion, and risk;</p>
+<h3>4.4</h3>
+<p>you are solely responsible for any applicable taxes which may be payable on cash or prizes awarded to you through your use of the Service;</p>
+<h3>4.5</h3>
+<p>OneLeft App does not provide advice to Users regarding tax and/or legal matters. Users who wish to obtain advice regarding tax and legal matters are advised to contact appropriate advisors and/or authorities in the jurisdiction in which they are domiciled and/or resident;</p>
+<h3>4.6</h3>
+<p>the telecommunications networks and Internet access services required for you to access and use the Service are entirely beyond the control of OneLeft App and shall have no liability whatsoever for any outages, slowness, capacity constraints or other deficiencies affecting the same;</p>
+<h3>4.8</h3>
+<p>you have provided true and accurate information concerning you.</p>
+<h3>4.9</h3>
+<p>you are not currently on any list of persons that would prohibit OneLeft from engaging in business or other dealings, or otherwise offering the Service to you;</p>
+<h3>4.10</h3>
+<p>you are not prohibited due to your geographic location or otherwise from receiving funds from OneLeft.</p>
+<h3>4.11</h3>
+<p>if you are identified as such a person as detailed in Clause 4.9 or 4.10, OneLeft may immediately terminate your account and all access to any of the Service.</p>
+<h2>5. PROHIBITED USES</h2>
+<h3>5.1</h3>
+<p><strong>SOFTWARE MODIFICATIONS.</strong> User may not attempt to modify, decompile, reverse-engineer or disassemble the Software in any way.</p>
+<h3>5.2</h3>
+<p><strong>PERSONAL USE.</strong> The Service is intended solely for the User\'s personal use. The User is only allowed to wager for his/her personal entertainment. Under no circumstances shall a User be permitted to use his/her account for any purpose other than for using the Service. The User must provide full and truthful information in respect of all details and information provided by the User to OneLeft and the User is obligated to update such details in the event of any change thereto.</p>
+<h3>5.3</h3>
+<p><strong>MONEY TRANSFERS.</strong> OneLeft\'s money transfer facility depends on the user providing correct information related to his/her bank account. It is the responsibility of user to check due rules, taxes and fees related to the transfer, and OneLeft is exempt from any responsibility regarding the charging of taxes and fees or the failure or delay to transferring money. Availability of transfers and limits on transfers will be set by OneLeft per User from time-to-time as applicable.</p>
+<p>As part of the OneLeft\'s licensing agreements and in compliance with anti-money laundering legislation, Users need to be aware they may be required to produce personal documentation (such as Government issued ID, bank statements and utility bills) upon request in order for their transfer to be processed. This allows OneLeft to help protect the Users and prevent OneLeft being used as a vehicle for money laundering or fraud.</p>
+<p>The following terms and conditions also apply to the real money transfer facility:</p>
+<p>a. OneLeft reserves the right to decline any account transfer requests or to overturn any account transfer upon suspicion of breach of any of the terms of this Agreement by the sender or receiver.</p>
+<p>b. Withdrawal requests will be reviewed in accordance with our internal controls, policies and procedures.</p>
+<h3>5.4</h3>
+<p><strong>COLLUSION.</strong> Collusion between Users by sharing quiz information, use of bots or by any other methods is strictly forbidden. OneLeft reserves the right, in addition to other measures, to restrict or to prohibit Users from playing. In addition, we reserve the right to consider any collusion or attempt at collusion between players (including Users) as a material breach of this Agreement and accordingly we shall have the right to terminate a User\'s account if a User engages or attempts to engage in any such activity, regardless of the outcome of such attempt.</p>
+<h3>5.5</h3>
+<p><strong>EXTERNAL PLAYER ASSISTANCE TOOLS.</strong> OneLeft prohibits external player assistance tools that are designed to provide an unfair advantage to players.</p>
+<h3>5.6</h3>
+<p><strong>AUTOMATIC PLAYERS (BOTS).</strong> The use of artificial intelligence including, without limitation, "robots" is strictly forbidden in connection with the Service. All actions taken in relation to the Service by a User must be executed personally by players through the user interface accessible by use of the Software, and without the assistance of any form of artificial intelligence.</p>
+<h3>5.7</h3>
+<p><strong>PREVENTION.</strong> You agree that OneLeft may take steps to detect and prevent the use of prohibited Tools. These steps may include, but are not limited to, examination of software programs running concurrently with our Software on the User\'s computer. You agree that you will not attempt to bypass, interfere with, or block such steps, including, without limitation, the use of third party software that bypasses, interferes with, or blocks such steps.</p>
+<h3>5.8</h3>
+<p><strong>FRAUDULENT BEHAVIOR.</strong> In the event that OneLeft App deems that a User has engaged or attempted to engage in fraudulent, unlawful, dishonest or improper activity while using either the Service or any of the other services, products or facilities, OneLeft App shall be entitled to take such action as it sees fit, including, but not limited to:</p>
+<p>a. immediately blocking a User\'s access to the Service;</p>
+<p>b. notifying other companies;</p>
+<p>c. terminating a User\'s account;</p>
+<p>d. seizing the funds within a User\'s account;</p>
+<p>e. disclosing such information (including the identity of the User) to financial institutions, relevant authorities and/or any person or entity that has the legal right to such information; and/or</p>
+<p>f. taking legal action against a User.</p>
+<h3>5.9</h3>
+<p><strong>CURRENCY EXCHANGE.</strong> OneLeft App will not be held responsible for gains and losses incurred by Users derived from currency exchange transactions.</p>
+<h3>5.10</h3>
+<p>If we mistakenly credit your Account with winnings that do not belong to you, whether this is due to a technical or human error or otherwise, the amount will remain our property and the amount will be transferred back to us from your Account. We reserve the right to void any transactions placed using incorrectly/mistakenly credited funds, including related winnings paid out in error. To satisfy any such liability, we further reserve the right to freeze and withhold these funds and set-off any subsequent winnings owed to you. If prior to our becoming aware of the error you have withdrawn funds that do not belong to you, without prejudice to other remedies and actions that may be available to us at law, the mistakenly paid amount will constitute a debt owed by you to us. In the event of an incorrect crediting, you are obliged to notify us immediately by email to support.</p>
+<p>You may not abuse or take advantage of any error or instance of incompleteness on any of the Games provided by us. Should you become aware of such an error or incompleteness, please notify us immediately. If you do not comply with this Clause and take advantage of or divulge any information about an error or incompleteness, we will be entitled to pursue any remedies available at law.</p>
+<h2>6. WITHDRAWAL POLICY</h2>
+<p>OneLeft App reserves the right to use additional eligibility criteria to determine the withdrawal options Users may be offered at any given time.</p>
+<h2>7. BREACH</h2>
+<h3>7.1</h3>
+<p>Without prejudice to any other rights of OneLeft,  if a User breaches in whole or in part any provision contained herein, including, without limitation, if any of the following occurs:</p>
+<ol>
+<li>you provide incorrect or misleading information when registering for the Service;</li>
+<li>you become subject to restrictions that prohibit OneLeft from dealing with you or performing any financial services for you;</li>
+<li>you reside in a jurisdiction where using the Service is prohibited by law;</li>
+<li>you have cheated when using the Service;</li>
+<li>you use the the Service or your Account in bad faith.</li>
+</ol>
+<p>OneLeft reserves the right, in our unfettered discretion, to take such action as we see fit, including terminating this Agreement and any other agreement in place between the User and EE Technology, immediately blocking the User\'s access to the Service or to any other service offered by EE Technology, terminating such User\'s account on OneLeft, seizing or quarantining all monies held in the User\'s account and/or taking legal action against such User.</p>
+<h3>7.2</h3>
+<p>You agree to fully indemnify, defend and hold harmless OneLeft, from and against all claims, demands, liabilities, damages, losses, costs and expenses, including legal fees and any other charges whatsoever, howsoever caused, that may arise as a result of:</p>
+<ol>
+<li>your breach of this Agreement, in whole or in part;</li>
+<li>violation by you of any law or any third party rights; and</li>
+<li>use by you of the Service or use by any other person accessing the Service using your Login Credentials (as defined below), whether or not with your authorization.</li>
+</ol>
+<h2>8. LIMITATION OF LIABILITY</h2>
+<h3>8.1</h3>
+<p>Under no circumstances, including negligence, shall OneLeft or EE Technology be liable for any special, incidental, direct, indirect or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use (or misuse) of the Service even if OneLeft had prior knowledge of the possibility of such damages.</p>
+<h2>9. SECURITY AND YOUR ACCOUNT</h2>
+<h3>9.1</h3>
+<p>The User agrees that he/she is solely responsible for all use of the Service under his/her Login Credentials and that he/she shall not disclose the Login Credentials to any person whatsoever nor permit another person to use the Service via his/her Account.</p>
+<h3>9.2</h3>
+<p>The User is obliged to keep his/her Login Credentials secret and confidential at all times and to take all efforts to protect their secrecy and confidentiality. Any unauthorized use of the Login Credentials shall be the sole responsibility of the User and be deemed as his/her use. Any liability therefrom shall be that of the User.</p>
+<h2>10</h2>
+<h3>10.1</h3>
+<p><strong>UPDATING PAYMENT DETAILS.</strong> It is your responsibility to make yourself aware of the terms upon which your payments are accepted. You are solely responsible to keep yourself informed of any changes.</p>
+<h3>10.2</h3>
+<p>We reserve the right to run credit and/or identity checks on a User, with third party credit reference agencies or services, using the information provided to us by a User on registration with the Service.</p>
+<h3><strong>10.3</strong></h3>
+<p>We reserve the right to use third party electronic payment processors and/or financial institutions to process payments made by and to you in connection with your use of the Service.</p>
+<p><strong> </strong></p>
+<h2>11. AMENDMENT</h2>
+<p>OneLeft may update or modify the terms of this Agreement or any part thereof from time to time.</p>
+<h2>12. GOVERNING LAW</h2>
+<p>The Agreement and any matters relating hereto shall be governed by, and construed in accordance with, the laws of Brazil.</p>
+<h2>13. SEVERABILITY</h2>
+<p>If a provision of this Agreement is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect the validity or enforceability in that jurisdiction of any other provision hereof or the validity or enforceability in other jurisdictions of that or any other provision hereof.</p>
+<h2>14. ASSIGNMENT</h2>
+<p>OneLeft reserves the right to assign this Agreement, in whole or in part, at any time without notice. The User may not assign any of his/her rights or obligations under this Agreement.</p>
+<h2>15. MISCELLANEOUS</h2>
+<h3>15.1</h3>
+<p>No waiver by OneLeft of any breach of any provision of this Agreement (including the failure of OneLeft to require strict and literal performance of or compliance with any provision of this Agreement) shall in any way be construed as a waiver of any subsequent breach of such provision or of any breach of any other provision of this Agreement.</p>
+<h3>15.2</h3>
+<p>Nothing in this Agreement shall create or confer any rights or other benefits in favour of any third parties not party to this Agreement other than with respect to EE Technology.</p>
+<h3>15.3</h3>
+<p>Nothing in this Agreement shall create or be deemed to create a partnership, agency, trust arrangement, fiduciary relationship or joint venture between you and us.</p>
+</string>
+    <string name="john_doe">John Doe</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="payment">Payment</string>
+    <string name="history">History</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="finish">Finish</string>
+    <string name="questions">Questions</string>
+    <string name="unable_to_process">Unable to process server response</string>
+    <string name="submit">Submit</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="save">Save</string>
+    <string name="new_password">New Password</string>
+    <string name="start_game">Start Game</string>
+    <string name="leave">Leave</string>
+    <string name="claim_reward">Claim Reward</string>
+    <string name="didn_t_receive_click_here">Didn\'t Receive? Click Here</string>
+    <string name="didn_t_receive">Didn\'t Receive?</string>
+    <string name="click_here">Click Here</string>
+    <string name="noti_channel_id">GAME_CHANNEL_ID</string>
+    <string name="setup_your_stripe_account">Setup your Stripe account</string>
+    <string name="stripe_account">Withdrawal</string>
+    <string name="please_wait_for_other_players_to_join">Please wait for other players to join. The game will start once 3 players have joined!</string>
+    <string name="players_in_lounge">Players in Lounge</string>
+
+    <string-array name="categories">
+        <item>All</item>
+    </string-array>
+</resources>

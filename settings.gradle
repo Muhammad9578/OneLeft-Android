@@ -1,0 +1,2 @@
+rootProject.name='Uppi App'
+include ':app'

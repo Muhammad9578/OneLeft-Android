@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:checkable="false"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/my_profile" />
+        <item
+            android:id="@+id/nav_payment"
+            android:checkable="false"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="@string/payment"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_stripe"
+            android:checkable="false"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="@string/stripe_account" />
+        <item
+            android:id="@+id/nav_history"
+            android:checkable="false"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_terms"
+            android:checkable="false"
+            android:icon="@drawable/ic_insert_drive_file_black_24dp"
+            android:title="@string/terms_of_service" />
+        <item
+            android:id="@+id/nav_contact"
+            android:checkable="false"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="@string/contact_us" />
+        <item
+            android:id="@+id/nav_logout"
+            android:checkable="false"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/log_out"
+            android:visible="false" />
+    </group>
+
+</menu>
